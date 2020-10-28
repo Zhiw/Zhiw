@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on EMQ X
+- 🛠 Python/Golang/Android/Java
+- 🌱 I’m currently learning Kubernetes and JavaScript
+- 💡 I’m curious about the world
+- 📫 How to reach me: karlkb81@gmail.com
+
